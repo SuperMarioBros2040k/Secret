@@ -1,4 +1,3 @@
 
-game.Workspace.Gravity = 100
-wait(10)
+
 game.Players.LocalPlayer:Kick("Error: 503 - Script did not load correctly try again")
